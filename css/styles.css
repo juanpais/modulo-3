@@ -16,6 +16,10 @@ body{
   margin: 10px 0 10px 0;
 }
 
+li a {
+  text-align: center;
+}
+
 /*esto me hace el scroll suavizado*/
 html {
   scroll-behavior: smooth;
