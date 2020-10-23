@@ -1,0 +1,22 @@
+body{
+   display: block; top: auto; float: none; position: static;
+}
+
+#encabezado, h4{
+  text-align: center
+}
+#encabezado{
+  font-size:1.5rem;
+}
+.navbar-brand{
+  font-size:1.5rem;
+  font-weight: 200p;
+}
+.card{
+  margin: 10px 0 10px 0;
+}
+
+/*esto me hace el scroll suavizado*/
+html {
+  scroll-behavior: smooth;
+}
